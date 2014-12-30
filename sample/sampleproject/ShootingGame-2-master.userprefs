@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Sub\ShootingGame-2-master\Assets\Scripts\LeaderBoard.cs">
+    <Files>
+      <File FileName="..\..\Sub\ShootingGame-2-master\Assets\Scripts\SaveScore.cs" Line="18" Column="1" />
+      <File FileName="..\..\Sub\ShootingGame-2-master\Assets\Scripts\ScoreUI.cs" Line="28" Column="27" />
+      <File FileName="..\..\Sub\ShootingGame-2-master\Assets\Scripts\LeaderBoardManager.cs" Line="22" Column="23" />
+      <File FileName="..\..\Sub\ShootingGame-2-master\Assets\Scripts\LeaderBoard.cs" Line="30" Column="2" />
+      <File FileName="..\..\Sub\ShootingGame-2-master\Assets\Scripts\Rankers.cs" Line="17" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
