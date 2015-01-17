@@ -7,3 +7,8 @@
 ・http://mb.cloud.nifty.com/doc/sdkdownload_unity.html
 ○Unityのインストール
 ○mobile backendのご登録
+
+Unity 4.5移行
+
+UserCommunity
+https://github.com/NIFTYCloud-mbaas/UserCommunity
